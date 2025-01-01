@@ -1,17 +1,68 @@
 {
   "repos": [
     {
-      "url": "Wetoria/sy-plugin-enhance@bff5274d2587eb50d7f505da62c7745e83599e9e",
-      "updated": "2024-12-28T21:01:16Z",
-      "stars": 10,
+      "url": "IAliceBobI/sy-progressive-plugin@c5de146bc1c80e51720d45ce467c9f0eed68b17d",
+      "updated": "2025-01-01T02:24:22Z",
+      "stars": 15,
+      "openIssues": 0,
+      "size": 1579024,
+      "installSize": 2940916,
+      "package": {
+        "name": "sy-progressive-plugin",
+        "author": "IAliceBobI",
+        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
+        "version": "1.2.31",
+        "minAppVersion": "2.12.6",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Progressive Learning",
+          "zh_CN": "渐进学习",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Excerpt-based Progressive Learning, Fragmented Progressive Learning, Writing-based Flashcards, List Cards, Daily Card",
+          "zh_CN": "摘抄式渐进学习、分片式渐进学习、原地制卡、列表卡、Daily Card",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/playerv5"
+          ]
+        },
+        "keywords": [
+          "Learning",
+          "Progressive",
+          "Progressive Learning",
+          "Progressive Reading",
+          "Progressive Writing"
+        ]
+      }
+    },
+    {
+      "url": "Wetoria/sy-plugin-enhance@69730c528992c1fd19e02134398955a9aadf1ef3",
+      "updated": "2024-12-31T18:26:48Z",
+      "stars": 11,
       "openIssues": 2,
-      "size": 786590,
-      "installSize": 1580301,
+      "size": 787797,
+      "installSize": 1584930,
       "package": {
         "name": "sy-plugin-enhance",
         "author": "Wetoria",
         "url": "https://github.com/Wetoria/sy-plugin-enhance",
-        "version": "0.30.2",
+        "version": "0.30.3",
         "minAppVersion": "3.0.10",
         "backends": [
           "all"
@@ -43,6 +94,373 @@
           ]
         },
         "keywords": []
+      }
+    },
+    {
+      "url": "Yimien/plugin-memos-sync-helper@34b882326729d42df43303bc5d1ed66b0146c688",
+      "updated": "2024-12-31T09:39:05Z",
+      "stars": 14,
+      "openIssues": 0,
+      "size": 768245,
+      "installSize": 1475649,
+      "package": {
+        "name": "plugin-memos-sync-helper",
+        "author": "Yimien",
+        "url": "https://github.com/Yimien/plugin-memos-sync-helper",
+        "version": "0.2.7",
+        "minAppVersion": "3.0.12",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker",
+          "android",
+          "ios"
+        ],
+        "frontends": [
+          "desktop",
+          "desktop-window",
+          "mobile",
+          "browser-desktop",
+          "browser-mobile"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "Memos 同步助手",
+          "en_US": "Memos Sync Assistant"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "将 Memos 的数据同步至思源笔记中",
+          "en_US": "Sync Memos data to SiYuan"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": []
+        },
+        "keywords": [
+          "Memos",
+          "同步",
+          "Sync"
+        ]
+      }
+    },
+    {
+      "url": "OpaqueGlass/syplugin-hierarchyNavigate@60c4b49802d02e526b73c32a9aa09d343b1e7ecd",
+      "updated": "2024-12-31T05:32:24Z",
+      "stars": 14,
+      "openIssues": 6,
+      "size": 186310,
+      "installSize": 407780,
+      "package": {
+        "name": "syplugin-hierarchyNavigate",
+        "author": "OpaqueGlass",
+        "url": "https://github.com/OpaqueGlass/syplugin-hierarchyNavigate",
+        "version": "1.5.0",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "HierarchyNavigate",
+          "zh_CN": "文档层级导航",
+          "en_US": "HierarchyNavigate"
+        },
+        "description": {
+          "default": "Insert doc-links under current doc title",
+          "zh_CN": "在标题下方显示上下层级文档链接",
+          "en_US": "Insert doc-links under current doc title"
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://wj.qq.com/s2/12395364/b69f/"
+          ]
+        },
+        "keywords": null
+      }
+    },
+    {
+      "url": "IAliceBobI/sy-tomato-plugin@c9f32e8f822512e00e7cdbb6c461fe85fd709cbc",
+      "updated": "2024-12-31T00:50:52Z",
+      "stars": 21,
+      "openIssues": 0,
+      "size": 2002166,
+      "installSize": 4116954,
+      "package": {
+        "name": "sy-tomato-plugin",
+        "author": "IAliceBobI",
+        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
+        "version": "3.0.24",
+        "minAppVersion": "3.0.3",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Tomato Toolbox",
+          "zh_CN": "番茄工具箱",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Status Bar Pomodoro, Annotation, Bottom Backlinks, Sync Blocks, Block Relationship Graph, Text to Reference, Flash Idea via Camera, Reading Points, Two-Way Mutual Links, AI Knowledge Base Q\u0026amp;A, Streaming AI, Database Backlinks, Flashcard Priority, Document Merge, Recurring Reminders, Delete Cards During Review, Flashcard Image Cloze, Move to Today\u0026#39;s Notes, Clean Up Invalid Flashcards",
+          "zh_CN": "状态栏番茄钟、批注、底部反链、同步块、块关系图、文本转引用、拍照闪念、阅读点、双向互链、AI知识库问答、流式AI、数据库反链、闪卡优先级、文档合并、定期提醒、复习时删卡、闪卡图片挖空、移到今日笔记、清理失效闪卡",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/playerv5"
+          ]
+        },
+        "keywords": [
+          "TomatoClock",
+          "Time management",
+          "Productivity",
+          "Pomodoro technique",
+          "Timer plugin",
+          "Task scheduling",
+          "Focus sessions",
+          "Work intervals",
+          "Breaks",
+          "Time tracking",
+          "Timeboxing",
+          "Time optimization",
+          "Efficiency",
+          "Work-life balance",
+          "Distraction management",
+          "Task prioritization",
+          "Time blocking",
+          "Time visualization",
+          "Progress tracking",
+          "Goal setting"
+        ]
+      }
+    },
+    {
+      "url": "jzmanu/siyuan-dashboard@6b635c479c2d76f14c85cf621bc33391972dfc4b",
+      "updated": "2024-12-30T14:37:21Z",
+      "stars": 9,
+      "openIssues": 2,
+      "size": 192485,
+      "installSize": 409772,
+      "package": {
+        "name": "siyuan-dashboard",
+        "author": "jzman",
+        "url": "https://github.com/jzmanu/siyuan-dashboard",
+        "version": "1.2.0",
+        "minAppVersion": "3.1.1",
+        "backends": [
+          "windows",
+          "linux",
+          "darwin",
+          "docker"
+        ],
+        "frontends": [
+          "desktop",
+          "browser-desktop",
+          "browser-mobile",
+          "desktop-window"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "仪表盘",
+          "en_US": "siyuan-dashboard"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "思源仪表盘，好用的思源笔记数据统计插件。",
+          "en_US": "SiYuan dashboard, the best SiYuan note data statistics plugin."
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/jzman"
+          ]
+        },
+        "keywords": [
+          "仪表盘",
+          "字数统计",
+          "字数",
+          "数据统计",
+          "words",
+          "word",
+          "dashboard",
+          "analyse",
+          "data",
+          "statistics",
+          "plugin"
+        ]
+      }
+    },
+    {
+      "url": "frostime/sy-bq-callout@994face3c5ace17fbc74d5ae1bab6e583dcc44f8",
+      "updated": "2024-12-30T04:52:04Z",
+      "stars": 3,
+      "openIssues": 2,
+      "size": 114395,
+      "installSize": 208946,
+      "package": {
+        "name": "sy-bq-callout",
+        "author": "frostime",
+        "url": "https://github.com/frostime/sy-bq-callout",
+        "version": "1.4.1",
+        "minAppVersion": "3.1.15",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "Savor Callout",
+          "en_US": "Savor Callout"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "仿 Savor 主题的 callout",
+          "en_US": "A callout implemented in Savor theme"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.net/a/Savor"
+          ]
+        },
+        "keywords": [
+          "callout"
+        ]
+      }
+    },
+    {
+      "url": "frostime/sy-bookmark-plus@6c01ba04fc244c33f1ccbfdf0c1b1ca281d6e1ad",
+      "updated": "2024-12-30T03:04:07Z",
+      "stars": 14,
+      "openIssues": 9,
+      "size": 213920,
+      "installSize": 307954,
+      "package": {
+        "name": "sy-bookmark-plus",
+        "author": "frostime",
+        "url": "https://github.com/frostime/sy-bookmark-plus",
+        "version": "1.5.1",
+        "minAppVersion": "3.0.12",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "书签+",
+          "en_US": "Bookmark+"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "一个更加强大的书签功能",
+          "en_US": "A more powerful bookmark"
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            ""
+          ]
+        },
+        "keywords": [
+          "plugin",
+          "书签",
+          "Bookmark"
+        ]
+      }
+    },
+    {
+      "url": "2234839/aiChat-plugin-siyuan@2d59ab8a82d7ccfc7b5aa6af08c30d630dfc0d23",
+      "updated": "2024-12-30T01:04:57Z",
+      "stars": 0,
+      "openIssues": 0,
+      "size": 81392,
+      "installSize": 180016,
+      "package": {
+        "name": "aichat-plugin-siyuan",
+        "author": "崮生",
+        "url": "https://github.com/2234839/aichat-plugin-siyuan",
+        "version": "0.0.6",
+        "minAppVersion": "2.10.3",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "",
+          "zh_CN": "aichat-plugin-siyuan",
+          "en_US": "aichat-plugin-siyuan"
+        },
+        "description": {
+          "default": "",
+          "zh_CN": "",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "",
+          "zh_CN": "README.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/@llej0"
+          ]
+        },
+        "keywords": null
       }
     },
     {
@@ -160,10 +578,71 @@
       }
     },
     {
+      "url": "Zuoqiu-Yingyi/siyuan-plugin-custom-fonts@698960959902f0a40fc3334f8f42f33ae6b082a5",
+      "updated": "2024-12-28T11:57:08Z",
+      "stars": 10,
+      "openIssues": 5,
+      "size": 905759,
+      "installSize": 1810972,
+      "package": {
+        "name": "custom-fonts",
+        "author": "Zuoqiu Yingyi",
+        "url": "https://github.com/Zuoqiu-Yingyi/siyuan-plugin-custom-fonts",
+        "version": "1.2.1",
+        "minAppVersion": "2.10.13",
+        "backends": [
+          "all"
+        ],
+        "frontends": [
+          "all"
+        ],
+        "displayName": {
+          "default": "Custom Fonts",
+          "zh_CN": "自定义字体",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Customize the fonts of various elements in the SiYuan interface.",
+          "zh_CN": "自定义思源界面中各种元素的字体。",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/zuoqiu",
+            "https://ko-fi.com/zuoqiu"
+          ]
+        },
+        "keywords": [
+          "字体",
+          "字體",
+          "字型",
+          "font",
+          "字族",
+          "font family",
+          "字体列表",
+          "字體列表",
+          "字型列表",
+          "font list",
+          "块字体",
+          "塊字體",
+          "塊字型",
+          "block font"
+        ]
+      }
+    },
+    {
       "url": "Macavity/siyuan-database-properties-panel@24adb647c1549dfcf9740e6a66397d0db9c2d1bc",
       "updated": "2024-12-28T08:09:02Z",
       "stars": 7,
-      "openIssues": 4,
+      "openIssues": 5,
       "size": 368989,
       "installSize": 988637,
       "package": {
@@ -217,123 +696,6 @@
       }
     },
     {
-      "url": "IAliceBobI/sy-tomato-plugin@ecde72dcba73bd280f609ec0d88d32353ca1a387",
-      "updated": "2024-12-28T05:24:07Z",
-      "stars": 20,
-      "openIssues": 0,
-      "size": 2001773,
-      "installSize": 4115996,
-      "package": {
-        "name": "sy-tomato-plugin",
-        "author": "IAliceBobI",
-        "url": "https://github.com/IAliceBobI/sy-tomato-plugin",
-        "version": "3.0.23",
-        "minAppVersion": "3.0.3",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Tomato Toolbox",
-          "zh_CN": "番茄工具箱",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Status Bar Pomodoro, Annotation, Bottom Backlinks, Sync Blocks, Block Relationship Graph, Text to Reference, Flash Idea via Camera, Reading Points, Two-Way Mutual Links, AI Knowledge Base Q\u0026amp;A, Streaming AI, Database Backlinks, Flashcard Priority, Document Merge, Recurring Reminders, Delete Cards During Review, Flashcard Image Cloze, Move to Today\u0026#39;s Notes, Clean Up Invalid Flashcards",
-          "zh_CN": "状态栏番茄钟、批注、底部反链、同步块、块关系图、文本转引用、拍照闪念、阅读点、双向互链、AI知识库问答、流式AI、数据库反链、闪卡优先级、文档合并、定期提醒、复习时删卡、闪卡图片挖空、移到今日笔记、清理失效闪卡",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/playerv5"
-          ]
-        },
-        "keywords": [
-          "TomatoClock",
-          "Time management",
-          "Productivity",
-          "Pomodoro technique",
-          "Timer plugin",
-          "Task scheduling",
-          "Focus sessions",
-          "Work intervals",
-          "Breaks",
-          "Time tracking",
-          "Timeboxing",
-          "Time optimization",
-          "Efficiency",
-          "Work-life balance",
-          "Distraction management",
-          "Task prioritization",
-          "Time blocking",
-          "Time visualization",
-          "Progress tracking",
-          "Goal setting"
-        ]
-      }
-    },
-    {
-      "url": "IAliceBobI/sy-progressive-plugin@21a29c206095a3b86638e7d8de61da2f7ce89977",
-      "updated": "2024-12-28T05:12:15Z",
-      "stars": 15,
-      "openIssues": 0,
-      "size": 1577941,
-      "installSize": 2937550,
-      "package": {
-        "name": "sy-progressive-plugin",
-        "author": "IAliceBobI",
-        "url": "https://github.com/IAliceBobI/sy-progressive-plugin",
-        "version": "1.2.29",
-        "minAppVersion": "2.12.6",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "Progressive Learning",
-          "zh_CN": "渐进学习",
-          "en_US": ""
-        },
-        "description": {
-          "default": "Excerpt-based Progressive Learning, Fragmented Progressive Learning, Writing-based Flashcards, List Cards, Daily Card",
-          "zh_CN": "摘抄式渐进学习、分片式渐进学习、原地制卡、列表卡、Daily Card",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/playerv5"
-          ]
-        },
-        "keywords": [
-          "Learning",
-          "Progressive",
-          "Progressive Learning",
-          "Progressive Reading",
-          "Progressive Writing"
-        ]
-      }
-    },
-    {
       "url": "2234839/siyuan_expr@d765d45cb98c6eef13d1453c8d1dcb64a6e61d2c",
       "updated": "2024-12-28T02:43:47Z",
       "stars": 0,
@@ -379,54 +741,9 @@
       }
     },
     {
-      "url": "2234839/aiChat-plugin-siyuan@952691b3a69a1846bbfeec206b1220dd2be1ceea",
-      "updated": "2024-12-27T12:38:49Z",
-      "stars": 0,
-      "openIssues": 0,
-      "size": 78359,
-      "installSize": 176975,
-      "package": {
-        "name": "aichat-plugin-siyuan",
-        "author": "崮生",
-        "url": "https://github.com/2234839/aichat-plugin-siyuan",
-        "version": "0.0.5",
-        "minAppVersion": "2.10.3",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "aichat-plugin-siyuan",
-          "en_US": "aichat-plugin-siyuan"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/@llej0"
-          ]
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "loonghfut/siyuan-alist@39a1d11176fd4537d320be1b338e0ce6905afd9e",
       "updated": "2024-12-26T15:11:47Z",
-      "stars": 30,
+      "stars": 31,
       "openIssues": 0,
       "size": 712768,
       "installSize": 792901,
@@ -1144,7 +1461,7 @@
       "url": "suka233/siyuan-kmind-plugin@b0c8db9c97da50409a48d34223638bb5de952730",
       "updated": "2024-12-19T11:03:41Z",
       "stars": 58,
-      "openIssues": 16,
+      "openIssues": 15,
       "size": 17099161,
       "installSize": 35724982,
       "package": {
@@ -1278,55 +1595,6 @@
           "自定义更新",
           "自定义粘贴",
           "运行js"
-        ]
-      }
-    },
-    {
-      "url": "frostime/sy-bookmark-plus@33e7cd529d03a788296c56635373a992a9dbbc63",
-      "updated": "2024-12-16T09:11:18Z",
-      "stars": 14,
-      "openIssues": 12,
-      "size": 211726,
-      "installSize": 300646,
-      "package": {
-        "name": "sy-bookmark-plus",
-        "author": "frostime",
-        "url": "https://github.com/frostime/sy-bookmark-plus",
-        "version": "1.4.1",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "书签+",
-          "en_US": "Bookmark+"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "一个更加强大的书签功能",
-          "en_US": "A more powerful bookmark"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            ""
-          ]
-        },
-        "keywords": [
-          "plugin",
-          "书签",
-          "Bookmark"
         ]
       }
     },
@@ -2237,122 +2505,6 @@
       }
     },
     {
-      "url": "Yimien/plugin-memos-sync-helper@a7522c1c34d8274b13a3d83a26f7881ba4d0965b",
-      "updated": "2024-12-06T05:02:54Z",
-      "stars": 14,
-      "openIssues": 0,
-      "size": 767769,
-      "installSize": 1473906,
-      "package": {
-        "name": "plugin-memos-sync-helper",
-        "author": "Yimien",
-        "url": "https://github.com/Yimien/plugin-memos-sync-helper",
-        "version": "0.2.6",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker",
-          "android",
-          "ios"
-        ],
-        "frontends": [
-          "desktop",
-          "desktop-window",
-          "mobile",
-          "browser-desktop",
-          "browser-mobile"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "Memos 同步助手",
-          "en_US": "Memos Sync Assistant"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "将 Memos 的数据同步至思源笔记中",
-          "en_US": "Sync Memos data to SiYuan"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": []
-        },
-        "keywords": [
-          "Memos",
-          "同步",
-          "Sync"
-        ]
-      }
-    },
-    {
-      "url": "jzmanu/siyuan-dashboard@1d9164b447b85c727c1dc80fd67d79a0ba18c773",
-      "updated": "2024-12-05T17:01:11Z",
-      "stars": 9,
-      "openIssues": 3,
-      "size": 192855,
-      "installSize": 403102,
-      "package": {
-        "name": "siyuan-dashboard",
-        "author": "jzman",
-        "url": "https://github.com/jzmanu/siyuan-dashboard",
-        "version": "1.1.1",
-        "minAppVersion": "3.1.1",
-        "backends": [
-          "windows",
-          "linux",
-          "darwin",
-          "docker"
-        ],
-        "frontends": [
-          "desktop",
-          "browser-desktop",
-          "browser-mobile",
-          "desktop-window"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "仪表盘",
-          "en_US": "siyuan-dashboard"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "思源仪表盘，好用的思源数据统计插件。",
-          "en_US": "SiYuan dashboard, the best SiYuan data statistics plugin."
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README.md",
-          "en_US": "README_zh_CN.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/jzman"
-          ]
-        },
-        "keywords": [
-          "仪表盘",
-          "字数统计",
-          "字数",
-          "words",
-          "word",
-          "dashboard",
-          "analyse",
-          "data"
-        ]
-      }
-    },
-    {
       "url": "OpaqueGlass/syplugin-fakeDocBreadcrumb@7747b5bb3417b7c4825837b6b21621b3b61d3cc4",
       "updated": "2024-12-05T01:06:21Z",
       "stars": 8,
@@ -2493,7 +2645,7 @@
     {
       "url": "suka233/siyuan-knote@edad2b76ea112df34fd49ff8b0a76d9753fc0d5d",
       "updated": "2024-12-02T09:55:32Z",
-      "stars": 16,
+      "stars": 17,
       "openIssues": 4,
       "size": 4315327,
       "installSize": 9444968,
@@ -2864,47 +3016,6 @@
       }
     },
     {
-      "url": "OpaqueGlass/syplugin-hierarchyNavigate@73a6e54aae2605062d7a35e29716a35fef850414",
-      "updated": "2024-11-19T11:56:33Z",
-      "stars": 14,
-      "openIssues": 8,
-      "size": 168208,
-      "installSize": 355832,
-      "package": {
-        "name": "syplugin-hierarchyNavigate",
-        "author": "OpaqueGlass",
-        "url": "https://github.com/OpaqueGlass/syplugin-hierarchyNavigate",
-        "version": "1.4.3",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "HierarchyNavigate",
-          "zh_CN": "文档层级导航",
-          "en_US": "HierarchyNavigate"
-        },
-        "description": {
-          "default": "Insert doc-links under current doc title",
-          "zh_CN": "在标题下方显示上下层级文档链接",
-          "en_US": "Insert doc-links under current doc title"
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://wj.qq.com/s2/12395364/b69f/"
-          ]
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "Achuan-2/siyuan-plugin-formatPainter@182a413bccbc23c2c0057dfb762968d44c2e98dd",
       "updated": "2024-11-19T04:47:53Z",
       "stars": 15,
@@ -3065,7 +3176,7 @@
     {
       "url": "syh19/siyuan-plugin-task-list@f7875baaf28bdb88ab3d39dc6ab646bc876f3d02",
       "updated": "2024-11-15T15:58:53Z",
-      "stars": 38,
+      "stars": 39,
       "openIssues": 16,
       "size": 1254470,
       "installSize": 2719485,
@@ -3159,7 +3270,7 @@
       "url": "frostime/siyuan-dailynote-today@3ddbd16e168709c41b984f16589c00111cbcaba2",
       "updated": "2024-11-10T05:22:52Z",
       "stars": 24,
-      "openIssues": 5,
+      "openIssues": 6,
       "size": 141325,
       "installSize": 275985,
       "package": {
@@ -3504,53 +3615,6 @@
           "plugin",
           "tag",
           "backlink"
-        ]
-      }
-    },
-    {
-      "url": "frostime/sy-bq-callout@614351a9592bd5859f752e9487e834cb38af5869",
-      "updated": "2024-10-25T12:50:17Z",
-      "stars": 3,
-      "openIssues": 2,
-      "size": 113588,
-      "installSize": 205721,
-      "package": {
-        "name": "sy-bq-callout",
-        "author": "frostime",
-        "url": "https://github.com/frostime/sy-bq-callout",
-        "version": "1.4.0",
-        "minAppVersion": "3.0.12",
-        "backends": [
-          "all"
-        ],
-        "frontends": [
-          "all"
-        ],
-        "displayName": {
-          "default": "",
-          "zh_CN": "Savor Callout",
-          "en_US": "Savor Callout"
-        },
-        "description": {
-          "default": "",
-          "zh_CN": "仿 Savor 主题的 callout",
-          "en_US": "A callout implemented in Savor theme"
-        },
-        "readme": {
-          "default": "",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.net/a/Savor"
-          ]
-        },
-        "keywords": [
-          "callout"
         ]
       }
     },
@@ -3992,7 +4056,7 @@
     {
       "url": "zxkmm/siyuan_online_devices_mgr@f2640d0c449ec72fc9e8e7bda3e8e28955781723",
       "updated": "2024-10-13T14:25:31Z",
-      "stars": 32,
+      "stars": 33,
       "openIssues": 0,
       "size": 164204,
       "installSize": 317329,
@@ -4597,7 +4661,7 @@
     {
       "url": "zxkmm/siyuan_auto_codeblock@a924f2b73a3f779b981f00f9ff88a09dc5b23bb3",
       "updated": "2024-09-14T07:21:37Z",
-      "stars": 60,
+      "stars": 61,
       "openIssues": 5,
       "size": 47885,
       "installSize": 90264,
@@ -5203,7 +5267,7 @@
     {
       "url": "zxkmm/siyuan_doctree_compress@56317043b89a46ee678310338684fdfe6270617d",
       "updated": "2024-08-27T16:01:45Z",
-      "stars": 110,
+      "stars": 112,
       "openIssues": 15,
       "size": 68811,
       "installSize": 111796,
@@ -8679,7 +8743,7 @@
       "url": "zuoez02/siyuan-plugin-emoji-enhance@5b96da4be68961247a33ca10e041022565f0e734",
       "updated": "2024-01-31T13:28:14Z",
       "stars": 0,
-      "openIssues": 0,
+      "openIssues": 1,
       "size": 1140847,
       "installSize": 1164911,
       "package": {
@@ -9010,7 +9074,7 @@
       "url": "zuoez02/siyuan-plugin-toolbar-plus@d61f571b1b4cc61b15ec33723d8dff5826fef26b",
       "updated": "2024-01-19T01:37:46Z",
       "stars": 3,
-      "openIssues": 11,
+      "openIssues": 12,
       "size": 1874094,
       "installSize": 2095295,
       "package": {

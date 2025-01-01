@@ -1,9 +1,57 @@
 {
   "repos": [
     {
+      "url": "webceoboy/moredraw-widget-siyuan@09b93e08063ce0ea018886c1909c3c1ac7e70813",
+      "updated": "2024-12-29T07:14:08Z",
+      "stars": 1,
+      "openIssues": 0,
+      "size": 251802,
+      "installSize": 268008,
+      "package": {
+        "name": "moredraw-widget-siyuan",
+        "author": "Younluve",
+        "url": "https://github.com/webceoboy/moredraw-widget-siyuan",
+        "version": "0.0.1",
+        "minAppVersion": "2.8.8",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "MoreDraw",
+          "zh_CN": "MoreDraw 白板",
+          "en_US": ""
+        },
+        "description": {
+          "default": "MoreDraw widget for siyuan",
+          "zh_CN": "MoreDraw挂件，流程图、思维导图、便签、待办、图表等10+节点类型，任意连接，无限画布，多功能白板。",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": []
+        },
+        "keywords": [
+          "mind map",
+          "思维导图",
+          "flowchart",
+          "流程图",
+          "whiteboard",
+          "白板",
+          "AI",
+          "画图"
+        ]
+      }
+    },
+    {
       "url": "suka233/siyuan-Kmind@deb083604336931e572c14aecfecbcf3f53124c5",
       "updated": "2024-12-19T11:04:28Z",
-      "stars": 24,
+      "stars": 25,
       "openIssues": 1,
       "size": 4631576,
       "installSize": 20199661,
@@ -44,7 +92,7 @@
     {
       "url": "BryceAndJuly/Whiteboard@eec50a4de58cb63a91c2843583cdde831851c251",
       "updated": "2024-12-06T08:14:44Z",
-      "stars": 18,
+      "stars": 19,
       "openIssues": 1,
       "size": 6936155,
       "installSize": 15335359,

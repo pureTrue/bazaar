@@ -1,6 +1,157 @@
 {
   "repos": [
     {
+      "url": "pureTrue/siyuan-theme-darkside@2f033fb1c78bac671f6a768ad770aeee0cd24b41",
+      "updated": "2025-01-01T06:29:52Z",
+      "stars": 0,
+      "openIssues": 2,
+      "size": 11660153,
+      "installSize": 22017082,
+      "package": {
+        "name": "siyuan-theme-darkside",
+        "author": "pureTure",
+        "url": "https://github.com/pureTrue/siyuan-theme-darkside",
+        "version": "1.0.5",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "DarkSide",
+          "zh_CN": "暗夜君王",
+          "en_US": ""
+        },
+        "description": {
+          "default": "Aspire to be the dark theme with the best SiYuan aesthetic",
+          "zh_CN": "立志做思源审美最佳的暗色主题",
+          "en_US": ""
+        },
+        "readme": null,
+        "funding": null,
+        "keywords": null
+      }
+    },
+    {
+      "url": "QYLexpired/QYL-theme@f4d08f4803957b7bcba1f4f9b33537a2adbff160",
+      "updated": "2024-12-31T15:55:04Z",
+      "stars": 0,
+      "openIssues": 0,
+      "size": 21331711,
+      "installSize": 29063626,
+      "package": {
+        "name": "QYL-theme",
+        "author": "QYL",
+        "url": "https://github.com/QYLexpired/QYL-theme",
+        "version": "1.0.8",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "QYL",
+          "zh_CN": "QYL",
+          "en_US": "QYL"
+        },
+        "description": {
+          "default": "基于原版的优化主题，自用主题",
+          "zh_CN": "基于原版的优化主题，自用主题",
+          "en_US": "Self-use theme"
+        },
+        "readme": {
+          "default": "README_zh_CN.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": null,
+        "keywords": [
+          "QYL"
+        ]
+      }
+    },
+    {
+      "url": "royc01/notion-theme@08527cfd60b232361139e64c08daeff04121942e",
+      "updated": "2024-12-30T08:47:26Z",
+      "stars": 107,
+      "openIssues": 11,
+      "size": 1583902,
+      "installSize": 1915080,
+      "package": {
+        "name": "Savor",
+        "author": "Roy",
+        "url": "https://github.com/royc01/notion-theme",
+        "version": "5.1.6",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Savor",
+          "zh_CN": "写味",
+          "en_US": ""
+        },
+        "description": {
+          "default": "You said that you grudged eating up this kinda feeling.",
+          "zh_CN": "【史诗级合并版】你说你舍不得吃掉这一种感觉",
+          "en_US": ""
+        },
+        "readme": {
+          "default": "README.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": ""
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://afdian.com/a/Savor"
+          ]
+        },
+        "keywords": null
+      }
+    },
+    {
+      "url": "mustakshif/Asri@8395e9f5414260abb743563fb311a1b526e65f09",
+      "updated": "2024-12-29T16:11:31Z",
+      "stars": 57,
+      "openIssues": 6,
+      "size": 2031213,
+      "installSize": 2441441,
+      "package": {
+        "name": "Asri",
+        "author": "MUSTAKSHIF",
+        "url": "https://github.com/mustakshif/Asri",
+        "version": "3.2.0",
+        "minAppVersion": "",
+        "backends": null,
+        "frontends": null,
+        "displayName": {
+          "default": "Asri",
+          "zh_CN": "Asri",
+          "en_US": "Asri"
+        },
+        "description": {
+          "default": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
+          "zh_CN": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
+          "en_US": "An ultra-modern theme that delivers an elegant, efficient, and personalized note-taking experience through its clean, intuitive design."
+        },
+        "readme": {
+          "default": "README_zh_CN.md",
+          "zh_CN": "README_zh_CN.md",
+          "en_US": "README.md"
+        },
+        "funding": {
+          "openCollective": "",
+          "patreon": "",
+          "github": "",
+          "custom": [
+            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
+          ]
+        },
+        "keywords": [
+          "Asri",
+          "Hadeeth"
+        ]
+      }
+    },
+    {
       "url": "terwer/siyuan-theme-zhihu@8eb1c49439658910329eef1bff91276acd9f5238",
       "updated": "2024-12-28T09:57:40Z",
       "stars": 4,
@@ -39,42 +190,6 @@
           ]
         },
         "keywords": null
-      }
-    },
-    {
-      "url": "QYLexpired/QYL-theme@074a52dbe407a6432f2d362d44b4f101ace36b04",
-      "updated": "2024-12-27T15:49:30Z",
-      "stars": 0,
-      "openIssues": 0,
-      "size": 21331266,
-      "installSize": 29061994,
-      "package": {
-        "name": "QYL-theme",
-        "author": "QYL",
-        "url": "https://github.com/QYLexpired/QYL-theme",
-        "version": "1.0.7",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "QYL",
-          "zh_CN": "QYL",
-          "en_US": "QYL"
-        },
-        "description": {
-          "default": "基于原版的优化主题，自用主题",
-          "zh_CN": "基于原版的优化主题，自用主题",
-          "en_US": "Self-use theme"
-        },
-        "readme": {
-          "default": "README_zh_CN.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": null,
-        "keywords": [
-          "QYL"
-        ]
       }
     },
     {
@@ -127,47 +242,6 @@
       }
     },
     {
-      "url": "royc01/notion-theme@82dfbb839a5f189182a3d711923ac11e58828caf",
-      "updated": "2024-12-26T00:24:28Z",
-      "stars": 107,
-      "openIssues": 12,
-      "size": 1583925,
-      "installSize": 1915163,
-      "package": {
-        "name": "Savor",
-        "author": "Roy",
-        "url": "https://github.com/royc01/notion-theme",
-        "version": "5.1.5",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Savor",
-          "zh_CN": "写味",
-          "en_US": ""
-        },
-        "description": {
-          "default": "You said that you grudged eating up this kinda feeling.",
-          "zh_CN": "【史诗级合并版】你说你舍不得吃掉这一种感觉",
-          "en_US": ""
-        },
-        "readme": {
-          "default": "README.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": ""
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://afdian.com/a/Savor"
-          ]
-        },
-        "keywords": null
-      }
-    },
-    {
       "url": "Achuan-2/siyuan-themes-tsundoku@8e79e083cd0e4214ecc7da4f68554fe676bd6c20",
       "updated": "2024-12-23T12:02:37Z",
       "stars": 101,
@@ -206,50 +280,6 @@
           ]
         },
         "keywords": null
-      }
-    },
-    {
-      "url": "mustakshif/Asri@d253d718e0886675c425c89885c35aeb5962af51",
-      "updated": "2024-12-22T10:09:34Z",
-      "stars": 57,
-      "openIssues": 6,
-      "size": 2028154,
-      "installSize": 2425551,
-      "package": {
-        "name": "Asri",
-        "author": "MUSTAKSHIF",
-        "url": "https://github.com/mustakshif/Asri",
-        "version": "3.1.23",
-        "minAppVersion": "",
-        "backends": null,
-        "frontends": null,
-        "displayName": {
-          "default": "Asri",
-          "zh_CN": "Asri",
-          "en_US": "Asri"
-        },
-        "description": {
-          "default": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
-          "zh_CN": "极富现代感的思源笔记主题，以简洁、符合直觉的设计，带来优雅、高效、个性化的笔记体验。",
-          "en_US": "An ultra-modern theme that delivers an elegant, efficient, and personalized note-taking experience through its clean, intuitive design."
-        },
-        "readme": {
-          "default": "README_zh_CN.md",
-          "zh_CN": "README_zh_CN.md",
-          "en_US": "README.md"
-        },
-        "funding": {
-          "openCollective": "",
-          "patreon": "",
-          "github": "",
-          "custom": [
-            "https://d7y10jvubi.feishu.cn/docx/R9AOd6OXSo9JThx2AH6cUo4tntf"
-          ]
-        },
-        "keywords": [
-          "Asri",
-          "Hadeeth"
-        ]
       }
     },
     {
@@ -300,7 +330,7 @@
       "url": "royc01/Odyssey@3eda1bf500b78269043b47d65c1fb9a77eb79d30",
       "updated": "2024-12-15T09:37:37Z",
       "stars": 11,
-      "openIssues": 3,
+      "openIssues": 4,
       "size": 5540872,
       "installSize": 6798220,
       "package": {
@@ -408,7 +438,7 @@
     {
       "url": "chenshinshi/chuizi@e9048072f2f14ecbb50ce9044e8a0a650e4fa370",
       "updated": "2024-11-06T00:35:28Z",
-      "stars": 4,
+      "stars": 5,
       "openIssues": 1,
       "size": 20064713,
       "installSize": 30482662,
@@ -596,7 +626,7 @@
       "url": "Zuoqiu-Yingyi/siyuan-theme-dark-plus@4568bfe5f2fdc31ab2b00e156f3de3d25f442fbe",
       "updated": "2024-09-03T15:15:18Z",
       "stars": 142,
-      "openIssues": 23,
+      "openIssues": 24,
       "size": 9140014,
       "installSize": 13260641,
       "package": {
